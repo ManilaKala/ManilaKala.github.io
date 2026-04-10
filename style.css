@@ -52,3 +52,10 @@ h2 {
     background: #d0d7de;
     transform: scale(1.02);
 }
+a {
+    color: #2980b9;
+}
+
+a:hover {
+    text-decoration: underline;
+}
